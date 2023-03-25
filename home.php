@@ -37,7 +37,6 @@
         <!-- Kode untuk menampilkan kursi akan ditambahkan di sini -->
     </div>
 
-    <button id="btn-book" disabled>Book</button>
 
     <script src="script.js"></script>
 </body>
